@@ -11,7 +11,7 @@ Follow the instructions below to run it:
 
 1. Clone this repository
    ```sh
-   git clone https://github.com/mkstamin/react-project-setup.git
+   git clone https://github.com/mkstamin/tech-news.git
    ```
 2. Run
    ```sh
